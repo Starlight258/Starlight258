@@ -12,6 +12,8 @@ Feel free to contact me! 🤞
 
 [![Starlight258's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starlight258)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starlight258)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 #### Platforms & Languages
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
