@@ -27,7 +27,7 @@ Feel free to contact me! 🤞
 #### Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <!--
 **Starlight258/Starlight258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
