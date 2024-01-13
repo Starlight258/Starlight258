@@ -7,7 +7,7 @@ I'm a **server developer** mainly using Spring.
 
 Feel free to contact me! 🤞
 
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white)]([https://example.com](https://shout-to-my-mae.tistory.com/))
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white)](https://shout-to-my-mae.tistory.com/)
 <img src="https://img.shields.io/badge/audwl03071@gmail.com-EA4335?style=flat-square&logo=Android&logoColor=white"/>
 
 [![Starlight258's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starlight258)](https://github.com/anuraghazra/github-readme-stats)
