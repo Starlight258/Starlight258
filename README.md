@@ -1,18 +1,20 @@
 ### Creating Life 👩‍💻🫧
-I'm a **server developer** mainly using Spring.
+I'm a **software engineer** mainly using Spring.
 
 - interested in creating a **SOLID** service.✨
 
 - looking for answers on what **services make life more beneficial**. 🍇
 
+> "As engineers, you don't really understand something unless you can design and implement it."
+<br/>
+The experience of design and implementation goes beyond mere knowledge acquisition.
+ 
+It provides valuable opportunities to develop problem-solving skills and gain insights.
+
 Feel free to contact me! 🤞
 
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white)](https://shout-to-my-mae.tistory.com/)
 <img src="https://img.shields.io/badge/audwl03071@gmail.com-EA4335?style=flat-square&logo=Android&logoColor=white"/>
-
-[![Starlight258's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starlight258)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starlight258)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 #### Platforms & Languages
