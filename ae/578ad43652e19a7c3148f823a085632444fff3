@@ -1,0 +1,19 @@
+.github/workflows/profile-summary-cards.yml
+  s_6f03c5d280bbf1::t_f3099702a7ac98 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "ae578ad43652e19a7c3148f823a085632444fff3",
+  "prompts": {},
+  "sessions": {
+    "s_6f03c5d280bbf1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1059c044-c61d-47db-9125-5fe64f5612a1",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Mint <audwl03071@gmail.com>"
+    }
+  }
+}
