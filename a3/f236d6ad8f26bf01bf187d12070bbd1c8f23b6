@@ -1,0 +1,19 @@
+.github/workflows/snake.yml
+  s_6f03c5d280bbf1::t_2904c40772a6de 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "a3f236d6ad8f26bf01bf187d12070bbd1c8f23b6",
+  "prompts": {},
+  "sessions": {
+    "s_6f03c5d280bbf1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1059c044-c61d-47db-9125-5fe64f5612a1",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Mint <audwl03071@gmail.com>"
+    }
+  }
+}
