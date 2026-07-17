@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Starlight258/Starlight258/main/profile-summary-card-output/gruvbox/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Starlight258/Starlight258/main/profile-summary-card-output/gruvbox/4-productive-time.svg)
-```
-
-    
