@@ -1,4 +1,4 @@
-Software Engineer interested in distributed systems and product engineering.
+Learning Go and striving to build impactful products with clean, maintainable code.
 
 [![Blog](https://img.shields.io/badge/Blog-000?style=flat-square&logo=Tistory&logoColor=white)](https://shout-to-my-mae.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:audwl03071@gmail.com)
